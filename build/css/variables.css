@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 09 Oct 2022 16:22:11 GMT
+ * Generated on Sun, 09 Oct 2022 19:21:13 GMT
  */
 
 :root {
@@ -8,6 +8,7 @@
   --color-gray-400: #a3a3a3;
   --color-gray-800: #262626;
   --color-gray-900: #171717;
+  --color-purple-400: #9675e0;
   --color-purple-500: #8b5cf6;
   --effect-shadow-md: [object Object];
 }
